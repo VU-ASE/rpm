@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2025-08-20)
+
+
+### Features
+
+* push existing service with empty docs ([eb925c0](https://github.com/VU-ASE/rpm/commit/eb925c0562a4777ff50155027f78b106d83ba467))
+
 ## [1.1.0](https://github.com/VU-ASE/service-template-go/compare/v1.0.0...v1.1.0) (2025-03-29)
 
 
