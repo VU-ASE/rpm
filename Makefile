@@ -2,7 +2,7 @@
 .PHONY: build start clean test
 
 BUILD_DIR=bin/
-BINARY_NAME=rpm-service
+BINARY_NAME=rpm
 
 lint:
 	@echo "Lint check..."

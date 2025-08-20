@@ -1,12 +1,12 @@
-name: rpm-service
-author: elias
+name: rpm
+author: vu-ase
 source: github.com/VU-ASE/rpm
-version: 0.0.1
-description: A template service in Go
+version: 1.0.0
+description: Service to read RPM and speed values for both rear wheels
 
 commands:
   build: make build
-  run: ./bin/rpm-service
+  run: ./bin/rpm
 
 inputs: []
 outputs:
