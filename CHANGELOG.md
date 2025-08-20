@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/VU-ASE/rpm/compare/v1.0.0...v1.0.1) (2025-08-20)
+
+
+### Bug Fixes
+
+* updated service.yaml and Makefile for correct metadata ([fce83d4](https://github.com/VU-ASE/rpm/commit/fce83d4392335625bd7e9d959c40386c99b925a3))
+
 ## 1.0.0 (2025-08-20)
 
 
