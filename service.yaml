@@ -1,0 +1,15 @@
+name: rpm-service
+author: elias
+source: github.com/VU-ASE/rpm
+version: 0.0.1
+description: A template service in Go
+
+commands:
+  build: make build
+  run: ./bin/rpm-service
+
+inputs: []
+outputs:
+  - rpm
+
+configuration: []
