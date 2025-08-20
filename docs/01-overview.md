@@ -7,6 +7,8 @@ import TabItem from '@theme/TabItem';
 
 The `rpm` service uses the [embedded RPM sensor](https://ase.vu.nl/docs/category/rpm-sensor) to compute the RPM and speed values of both rear wheels individually.
 
+![Both optical sensors and striped wheels, as used by the embedded RPM sensor](https://github.com/user-attachments/assets/db2450b7-5bf4-4756-9476-d8ebf41d020c)
+
 ## Installation
 
 To install this service, the latest release of [`roverctl`](https://ase.vu.nl/docs/framework/Software/rover/roverctl/installation) should be installed for your system and your Rover should be powered on.
